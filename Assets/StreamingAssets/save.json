@@ -1,0 +1,23 @@
+{
+  "LevelsData": [
+    {
+      "SceneName": 0,
+      "Objectives": [
+        {
+          "NameLocId": "Objectives_Tutorial01_Objective01",
+          "Completed": false
+        }
+      ],
+      "Quests": [
+        {
+          "NameLocId": "Quests_Tutorial01_Quest01",
+          "Completed": false
+        },
+        {
+          "NameLocId": "Quests_Tutorial01_Quest02",
+          "Completed": false
+        }
+      ]
+    }
+  ]
+}
